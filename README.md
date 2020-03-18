@@ -1,5 +1,5 @@
-# awesome-references
-Resources and Cheatsheet that might come in handy
+# Awesome References
+Resources and Cheatsheets that might come in handy
 
 # Cheatsheets
 * [git commands](https://education.github.com/git-cheat-sheet-education.pdf)
