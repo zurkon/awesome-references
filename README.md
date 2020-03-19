@@ -12,6 +12,7 @@ Resources and Cheatsheets that might come in handy
 * [Howler](https://github.com/goldfire/howler.js/) - Audio library for the modern web.
 * [Carbon-now](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 * [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
+* [Figlet](https://github.com/patorjk/figlet.js) - Creates ASCII art from text.
 * [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 * [Signale](https://github.com/klaussinani/signale) - Highly configurable logging utility.
 * [Prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
