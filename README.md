@@ -1,7 +1,7 @@
 # Awesome References
 Resources and Cheatsheets that might come in handy
 
-# Cheatsheets
+# Cheat sheets
 * [git commands](https://education.github.com/git-cheat-sheet-education.pdf)
 * [git emoji](https://github.com/ikatyang/emoji-cheat-sheet)
 * [git markdown](https://guides.github.com/features/mastering-markdown/)
