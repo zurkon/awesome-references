@@ -5,6 +5,7 @@ Resources and Cheatsheets that might come in handy
 * [git commands](https://education.github.com/git-cheat-sheet-education.pdf)
 * [git emoji](https://github.com/ikatyang/emoji-cheat-sheet)
 * [git markdown](https://guides.github.com/features/mastering-markdown/)
+* [jQuery to Javascript](https://github.com/Zurkon/jquery-to-javascript-cheatsheet)
 * [Python](https://github.com/aneagoie/ztm-python-cheat-sheet)
 
 # Useful Node.js Projects
