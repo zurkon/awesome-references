@@ -22,4 +22,5 @@ Resources and Cheatsheets that might come in handy
 * [Ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [Clear](https://github.com/bahamas10/node-clear) - Clear the terminal screen if possible.
 * [NodeGUI](https://docs.nodegui.org/) - A library for building cross-platform native desktop applications with Node.js and CSS.
+* [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
 
