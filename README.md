@@ -7,6 +7,7 @@ Resources and Cheatsheets that might come in handy
 * [git markdown](https://guides.github.com/features/mastering-markdown/)
 * [jQuery to Javascript](https://github.com/Zurkon/jquery-to-javascript-cheatsheet)
 * [Python](https://github.com/aneagoie/ztm-python-cheat-sheet)
+* [Python Crash Course](https://github.com/ehmatthes/pcc_2e)
 
 # Useful Node.js Projects
 * [Filehound](https://github.com/nspragg/filehound/blob/master/README.md) - Flexible and fluent interface for searching the file system.
