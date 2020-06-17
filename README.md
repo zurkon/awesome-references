@@ -9,6 +9,12 @@ Resources and Cheatsheets that might come in handy
 * [Python](https://github.com/aneagoie/ztm-python-cheat-sheet)
 * [Python Crash Course](https://github.com/ehmatthes/pcc_2e)
 
+# Design Utilities that will come in handy
+* [undraw Illustrations](https://undraw.co/)
+* [Vector Paint - SVG Editor](https://vectorpaint.yaks.co.nz/)
+* [Blush Design Illustrations](https://blush.design/)
+* [CSS clip-path Maker](https://bennettfeely.com/clippy/)
+
 # Useful Node.js Projects
 * [Filehound](https://github.com/nspragg/filehound/blob/master/README.md) - Flexible and fluent interface for searching the file system.
 * [Howler](https://github.com/goldfire/howler.js/) - Audio library for the modern web.
