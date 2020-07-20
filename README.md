@@ -16,6 +16,8 @@ Resources and Cheatsheets that might come in handy
 * [CSS clip-path Maker](https://bennettfeely.com/clippy/)
 
 # Useful Node.js Projects
+* [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
+* [Tilt](https://github.com/gijsroge/tilt.js) - A lightweight parallax hover tilt effect.
 * [Filehound](https://github.com/nspragg/filehound/blob/master/README.md) - Flexible and fluent interface for searching the file system.
 * [Howler](https://github.com/goldfire/howler.js/) - Audio library for the modern web.
 * [Carbon-now](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
