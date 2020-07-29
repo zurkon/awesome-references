@@ -17,6 +17,7 @@ Resources and Cheatsheets that might come in handy
 * [Blush Design Illustrations](https://blush.design/)
 * [CSS clip-path Maker](https://bennettfeely.com/clippy/)
 * [Hero Patterns](https://www.heropatterns.com/)
+* [Animate On Scroll Library](https://michalsnik.github.io/aos/)
 
 # Useful Node.js Projects
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
