@@ -11,6 +11,7 @@ Resources and Cheatsheets that might come in handy
 * [Python Crash Course](https://github.com/ehmatthes/pcc_2e)
 
 # Design Utilities that will come in handy
+* [Loading Animations](https://loading.io/)
 * [undraw Illustrations](https://undraw.co/)
 * [Vector Paint - SVG Editor](https://vectorpaint.yaks.co.nz/)
 * [Blush Design Illustrations](https://blush.design/)
