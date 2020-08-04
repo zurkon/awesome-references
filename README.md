@@ -39,11 +39,19 @@ Resources and Cheatsheets that might come in handy
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
 * [Landing Page Examples](https://saaslandingpage.com/) - Inspirations for Landing Page.
 
-# Useful Javascript and Node.js Projects
+# Useful Javascript Projects
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
 * [Tilt](https://github.com/gijsroge/tilt.js) - A lightweight parallax hover tilt effect.
-* [Filehound](https://github.com/nspragg/filehound/blob/master/README.md) - Flexible and fluent interface for searching the file system.
 * [Howler](https://github.com/goldfire/howler.js/) - Audio library for the modern web.
+* [Bumblebee](https://github.com/jaxcore/bumblebee) - JavaScript Voice Application Framework.
+* [Uppload](https://uppload.js.org/) - a JavaScript image uploader.
+* [Popper.js](https://popper.js.org/) - Tooltip & Popover positioning engine.
+* [MusicKit JS](https://developer.apple.com/documentation/musickitjs) - Add an Apple Music player to your web app.
+* [City-Roads](https://github.com/anvaka/city-roads/) - Render every single road in any city at once.
+* [Playwright](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API.
+
+# Useful Node.js Projects
+* [Filehound](https://github.com/nspragg/filehound/blob/master/README.md) - Flexible and fluent interface for searching the file system.
 * [Carbon-now](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 * [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 * [Figlet](https://github.com/patorjk/figlet.js) - Creates ASCII art from text.
@@ -54,9 +62,8 @@ Resources and Cheatsheets that might come in handy
 * [Minimist](https://github.com/substack/minimist) - The guts of optimist's argument parser without all the fanciful decoration.
 * [Ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [Clear](https://github.com/bahamas10/node-clear) - Clear the terminal screen if possible.
-* [NodeGUI](https://docs.nodegui.org/) - A library for building cross-platform native desktop applications with Node.js and CSS.
 * [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
-* [Bumblebee](https://github.com/jaxcore/bumblebee) - JavaScript Voice Application Framework
-* [Checkboxland](https://www.bryanbraun.com/checkboxland/) - Render anything as HTML checkboxes
-* [Uppload](https://uppload.js.org/) - a JavaScript image uploader
 
+# Weird but Fun Projects
+* [RoughViz](https://github.com/jwilber/roughViz) - Library for creating sketchy/hand-drawn styled charts.
+* [Checkboxland](https://www.bryanbraun.com/checkboxland/) - Render anything as HTML checkboxes.
