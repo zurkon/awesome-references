@@ -33,11 +33,11 @@ Resources and Cheatsheets that might come in handy
 * [Color Palette Generator](https://www.palettelist.com/)
 
 # Useful General Projects
-* [Resume Builder](https://flowcv.io/)
-* [openbase.io - Choose the right package every time](https://openbase.io/)
-* [wttr.in — the right way to check the weather!](https://github.com/chubin/wttr.in)
-* [Brand Search Engine](https://brandfetch.io/)
-* [Landing Page Examples](https://saaslandingpage.com/)
+* [Resume Builder](https://flowcv.io/) - Build your job-winning resume.
+* [openbase.io](https://openbase.io/) - Choose the right package every time.
+* [wttr.in](https://github.com/chubin/wttr.in) - the right way to check the weather!
+* [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
+* [Landing Page Examples](https://saaslandingpage.com/) - Inspirations for Landing Page.
 
 # Useful Javascript and Node.js Projects
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
@@ -56,7 +56,7 @@ Resources and Cheatsheets that might come in handy
 * [Clear](https://github.com/bahamas10/node-clear) - Clear the terminal screen if possible.
 * [NodeGUI](https://docs.nodegui.org/) - A library for building cross-platform native desktop applications with Node.js and CSS.
 * [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
-* [Bumblebee - JavaScript Voice Application Framework](https://github.com/jaxcore/bumblebee)
-* [Checkboxland - Render anything as HTML checkboxes](https://www.bryanbraun.com/checkboxland/)
-* [Uppload - a JavaScript image uploader](https://uppload.js.org/)
+* [Bumblebee](https://github.com/jaxcore/bumblebee) - JavaScript Voice Application Framework
+* [Checkboxland](https://www.bryanbraun.com/checkboxland/) - Render anything as HTML checkboxes
+* [Uppload](https://uppload.js.org/) - a JavaScript image uploader
 
