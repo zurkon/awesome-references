@@ -14,12 +14,28 @@ Resources and Cheatsheets that might come in handy
 * [Loading Animations](https://loading.io/)
 * [undraw Illustrations](https://undraw.co/)
 * [Vector Paint - SVG Editor](https://vectorpaint.yaks.co.nz/)
+* [Free Illustrations Finder](https://freeillustrations.xyz/)
 * [Blush Design Illustrations](https://blush.design/)
 * [CSS clip-path Maker](https://bennettfeely.com/clippy/)
 * [Hero Patterns](https://www.heropatterns.com/)
 * [Animate On Scroll Library](https://michalsnik.github.io/aos/)
+* [3D Book Generator](https://3d-book-css.netlify.app/)
+* [Triangle Background Generator](https://trianglify.io/)
+* [Shape Divider Background Generator](https://www.shapedivider.app/)
+* [Tablericons - Free SVG icons](https://tablericons.com/)
+* [Image Placeholder](https://discover.twicpics.com/en/placeholder)
+* [Color Gradient Generator](https://mybrandnewlogo.com/color-gradient-generator)
+* [Gradients Search](https://www.grabient.com/)
+* [Color Palette Finder](https://colors.lol/)
+* [Color Palette Generator](https://www.palettelist.com/)
 
-# Useful Node.js Projects
+# Useful General Projects
+* [openbase.io - Choose the right package every time](https://openbase.io/)
+* [wttr.in — the right way to check the weather!](https://github.com/chubin/wttr.in)
+* [Brand Search Engine](https://brandfetch.io/)
+* [Landing Page Examples](https://saaslandingpage.com/)
+
+# Useful Javascript and Node.js Projects
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
 * [Tilt](https://github.com/gijsroge/tilt.js) - A lightweight parallax hover tilt effect.
 * [Filehound](https://github.com/nspragg/filehound/blob/master/README.md) - Flexible and fluent interface for searching the file system.
@@ -36,4 +52,6 @@ Resources and Cheatsheets that might come in handy
 * [Clear](https://github.com/bahamas10/node-clear) - Clear the terminal screen if possible.
 * [NodeGUI](https://docs.nodegui.org/) - A library for building cross-platform native desktop applications with Node.js and CSS.
 * [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
+* [Bumblebee - JavaScript Voice Application Framework](https://github.com/jaxcore/bumblebee)
+* [Checkboxland - Render anything as HTML checkboxes](https://www.bryanbraun.com/checkboxland/)
 
