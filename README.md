@@ -11,6 +11,7 @@ Resources and Cheatsheets that might come in handy
 * [Python Crash Course](https://github.com/ehmatthes/pcc_2e)
 
 # Design Utilities that will come in handy
+* [Color & Typography Tools](https://www.colorsandfonts.com/)
 * [Loading Animations](https://loading.io/)
 * [undraw Illustrations](https://undraw.co/)
 * [Vector Paint - SVG Editor](https://vectorpaint.yaks.co.nz/)
@@ -24,12 +25,15 @@ Resources and Cheatsheets that might come in handy
 * [Shape Divider Background Generator](https://www.shapedivider.app/)
 * [Tablericons - Free SVG icons](https://tablericons.com/)
 * [Image Placeholder](https://discover.twicpics.com/en/placeholder)
+* [Enlarge Image Without Losing Quality](https://imglarger.com/)
+* [Old Books Illustrations](https://www.oldbookillustrations.com/)
 * [Color Gradient Generator](https://mybrandnewlogo.com/color-gradient-generator)
 * [Gradients Search](https://www.grabient.com/)
 * [Color Palette Finder](https://colors.lol/)
 * [Color Palette Generator](https://www.palettelist.com/)
 
 # Useful General Projects
+* [Resume Builder](https://flowcv.io/)
 * [openbase.io - Choose the right package every time](https://openbase.io/)
 * [wttr.in — the right way to check the weather!](https://github.com/chubin/wttr.in)
 * [Brand Search Engine](https://brandfetch.io/)
@@ -54,4 +58,5 @@ Resources and Cheatsheets that might come in handy
 * [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
 * [Bumblebee - JavaScript Voice Application Framework](https://github.com/jaxcore/bumblebee)
 * [Checkboxland - Render anything as HTML checkboxes](https://www.bryanbraun.com/checkboxland/)
+* [Uppload - a JavaScript image uploader](https://uppload.js.org/)
 
