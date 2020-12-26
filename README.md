@@ -13,7 +13,7 @@ Resources and Cheatsheets that might come in handy
 
 # Design Utilities that will come in handy
 * [Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
-* [Animate On Scroll Library](https://michalsnik.github.io/aos/)
+* [AOS - Animate On Scroll Library](https://michalsnik.github.io/aos/)
 * [Unminus - Royalty Free Music for your Projects](https://www.unminus.com/)
 * [Unscreen - Remove Video Background](https://www.unscreen.com/)
 * [Grabients - Color Gradient](https://www.grabient.com/)
@@ -38,6 +38,7 @@ Resources and Cheatsheets that might come in handy
 * [Openbase.io - Compare 1.4M JS packages with reviews and unparalleled insights](https://openbase.io/)
 * [ReGex Pattern Generator](https://ihateregex.io/)
 * [Copy Paste List - A list of lists you can copy paste](https://copypastelist.com/)
+* [Github Profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 * [Resume Builder](https://flowcv.io/) - Build your job-winning resume.
 * [openbase.io](https://openbase.io/) - Choose the right package every time.
 * [wttr.in](https://github.com/chubin/wttr.in) - the right way to check the weather!
@@ -70,5 +71,6 @@ Resources and Cheatsheets that might come in handy
 * [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
 
 # Weird but Fun Projects
+* [Arwes - Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
 * [RoughViz](https://github.com/jwilber/roughViz) - Library for creating sketchy/hand-drawn styled charts.
 * [Checkboxland](https://www.bryanbraun.com/checkboxland/) - Render anything as HTML checkboxes.
