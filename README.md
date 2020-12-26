@@ -8,17 +8,17 @@ Resources and Cheatsheets that might come in handy
 * [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 * [Managing HTML DOM with Javascript](https://htmldom.dev/)
 * [jQuery to Javascript](https://github.com/Zurkon/jquery-to-javascript-cheatsheet)
-* [Python](https://github.com/aneagoie/ztm-python-cheat-sheet)
+* [Python Cheat Sheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
 * [React Airbnb Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
 # Design Utilities that will come in handy
-* [Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
-* [AOS - Animate On Scroll Library](https://michalsnik.github.io/aos/)
-* [Unminus - Royalty Free Music for your Projects](https://www.unminus.com/)
-* [Unscreen - Remove Video Background](https://www.unscreen.com/)
-* [Grabients - Color Gradient](https://www.grabient.com/)
+* [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
+* [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library
+* [Unminus](https://www.unminus.com/) - Royalty Free Music for your Projects
+* [Unscreen](https://www.unscreen.com/) - Remove Video Background
+* [Grabients](https://www.grabient.com/) - Color Gradient
+* [Vector Paint](https://vectorpaint.yaks.co.nz/) - SVG Editor
 * [undraw Illustrations](https://undraw.co/)
-* [Vector Paint - SVG Editor](https://vectorpaint.yaks.co.nz/)
 * [Shape Divider Background Generator](https://www.shapedivider.app/)
 * [Triangle Background Generator](https://trianglify.io/)
 * [Loading Animations](https://loading.io/)
@@ -35,10 +35,10 @@ Resources and Cheatsheets that might come in handy
 * [Color & Typography Tools](https://www.colorsandfonts.com/)
 
 # Useful General Projects
-* [Openbase.io - Compare 1.4M JS packages with reviews and unparalleled insights](https://openbase.io/)
+* [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
 * [ReGex Pattern Generator](https://ihateregex.io/)
-* [Copy Paste List - A list of lists you can copy paste](https://copypastelist.com/)
-* [Github Profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+* [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
+* [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 * [Resume Builder](https://flowcv.io/) - Build your job-winning resume.
 * [openbase.io](https://openbase.io/) - Choose the right package every time.
 * [wttr.in](https://github.com/chubin/wttr.in) - the right way to check the weather!
@@ -71,6 +71,6 @@ Resources and Cheatsheets that might come in handy
 * [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
 
 # Weird but Fun Projects
-* [Arwes - Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
+* [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 * [RoughViz](https://github.com/jwilber/roughViz) - Library for creating sketchy/hand-drawn styled charts.
 * [Checkboxland](https://www.bryanbraun.com/checkboxland/) - Render anything as HTML checkboxes.
