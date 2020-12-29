@@ -49,6 +49,7 @@ Resources and Cheatsheets that might come in handy
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
 * [Tilt](https://github.com/gijsroge/tilt.js) - A lightweight parallax hover tilt effect.
 * [Howler](https://github.com/goldfire/howler.js/) - Audio library for the modern web.
+* [Chroma.js](https://github.com/gka/chroma.js/) - JavaScript library for all kinds of color manipulations
 * [Bumblebee](https://github.com/jaxcore/bumblebee) - JavaScript Voice Application Framework.
 * [Uppload](https://uppload.js.org/) - a JavaScript image uploader.
 * [Popper.js](https://popper.js.org/) - Tooltip & Popover positioning engine.
