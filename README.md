@@ -32,7 +32,6 @@ Resources and Cheatsheets that might come in handy
 * [Old Books Illustrations](https://www.oldbookillustrations.com/)
 * [Color Gradient Generator](https://mybrandnewlogo.com/color-gradient-generator)
 * [Color Palette Generator](https://www.palettelist.com/)
-* [Color & Typography Tools](https://www.colorsandfonts.com/)
 
 # Useful General Projects
 * [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
@@ -63,7 +62,6 @@ Resources and Cheatsheets that might come in handy
 * [Signale](https://github.com/klaussinani/signale) - Highly configurable logging utility.
 * [Prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
 * [Yargs](https://github.com/yargs/yargs) - Interactive command line tools with elegant user interface.
-* [Minimist](https://github.com/substack/minimist) - The guts of optimist's argument parser without all the fanciful decoration.
 * [Ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [Clear](https://github.com/bahamas10/node-clear) - Clear the terminal screen if possible.
 * [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
