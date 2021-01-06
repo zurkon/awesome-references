@@ -41,7 +41,6 @@ Resources and Cheatsheets that might come in handy
 * [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 * [Resume Builder](https://flowcv.io/) - Build your job-winning resume.
 * [openbase.io](https://openbase.io/) - Choose the right package every time.
-* [wttr.in](https://github.com/chubin/wttr.in) - the right way to check the weather!
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
 * [Landing Page Examples](https://saaslandingpage.com/) - Inspirations for Landing Page.
 
@@ -53,13 +52,11 @@ Resources and Cheatsheets that might come in handy
 * [Bumblebee](https://github.com/jaxcore/bumblebee) - JavaScript Voice Application Framework.
 * [Uppload](https://uppload.js.org/) - a JavaScript image uploader.
 * [Popper.js](https://popper.js.org/) - Tooltip & Popover positioning engine.
-* [MusicKit JS](https://developer.apple.com/documentation/musickitjs) - Add an Apple Music player to your web app.
 * [City-Roads](https://github.com/anvaka/city-roads/) - Render every single road in any city at once.
 * [Playwright](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API.
 
 # Useful Node.js Projects
 * [Filehound](https://github.com/nspragg/filehound/blob/master/README.md) - Flexible and fluent interface for searching the file system.
-* [Carbon-now](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 * [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 * [Figlet](https://github.com/patorjk/figlet.js) - Creates ASCII art from text.
 * [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
