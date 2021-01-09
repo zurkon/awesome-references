@@ -38,6 +38,7 @@ Resources and Cheatsheets that might come in handy
 * [ReGex Pattern Generator](https://ihateregex.io/)
 * [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
 * [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+* [Shields.io](https://shields.io/) - SVG Badges for your repos.
 * [Resume Builder](https://flowcv.io/) - Build your job-winning resume.
 * [openbase.io](https://openbase.io/) - Choose the right package every time.
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
