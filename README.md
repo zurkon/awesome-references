@@ -34,13 +34,12 @@ Resources and Cheatsheets that might come in handy
 * [Color Palette Generator](https://www.palettelist.com/)
 
 # Useful General Projects
+* [Shields.io](https://shields.io/) - SVG Badges for your repos.
+* [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 * [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
 * [ReGex Pattern Generator](https://ihateregex.io/)
 * [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
-* [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-* [Shields.io](https://shields.io/) - SVG Badges for your repos.
 * [Resume Builder](https://flowcv.io/) - Build your job-winning resume.
-* [openbase.io](https://openbase.io/) - Choose the right package every time.
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
 * [Landing Page Examples](https://saaslandingpage.com/) - Inspirations for Landing Page.
 
