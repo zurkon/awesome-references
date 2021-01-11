@@ -33,6 +33,7 @@ Resources and Cheatsheets that might come in handy
 * [Color Palette Generator](https://www.palettelist.com/)
 
 # Useful General Projects
+* [Devicon](https://github.com/devicons/devicon)
 * [Simple-Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
 * [Badges for Github Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
 * [Awesome Github Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome Github Profile READMEs.
