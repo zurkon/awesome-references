@@ -13,7 +13,6 @@ Resources and Cheatsheets that might come in handy
 
 # Design Utilities that will come in handy
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
-* [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library
 * [Unminus](https://www.unminus.com/) - Royalty Free Music for your Projects
 * [Unscreen](https://www.unscreen.com/) - Remove Video Background
 * [Grabients](https://www.grabient.com/) - Color Gradient
@@ -48,6 +47,7 @@ Resources and Cheatsheets that might come in handy
 * [Landing Page Examples](https://saaslandingpage.com/) - Inspirations for Landing Page.
 
 # Useful Javascript Projects
+* [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
 * [Tilt](https://github.com/gijsroge/tilt.js) - A lightweight parallax hover tilt effect.
 * [Howler](https://github.com/goldfire/howler.js/) - Audio library for the modern web.
