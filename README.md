@@ -34,6 +34,7 @@ Resources and Cheatsheets that might come in handy
 * [Color Palette Generator](https://www.palettelist.com/)
 
 # Useful General Projects
+* [Simple-Icons](https://github.com/simple-icons/simple-icons)
 * [Badges for Github Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
 * [Awesome Github Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome Github Profile READMEs.
 * [Metrics](https://github.com/lowlighter/metrics) - An image generator with 20+ metrics about your GitHub account.
