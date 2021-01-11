@@ -17,6 +17,8 @@ Resources and Cheatsheets that might come in handy
 * [Metrics](https://github.com/lowlighter/metrics) - An image generator with 20+ metrics about your GitHub account.
 * [Shields.io](https://shields.io/) - SVG Badges for your repos.
 * [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Generetate a Amazing Github Profile in some clicks.
+* [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+* [Simple-Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
 
 # Design Utilities that will come in handy
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
@@ -40,8 +42,6 @@ Resources and Cheatsheets that might come in handy
 * [Color Palette Generator](https://www.palettelist.com/)
 
 # Useful General Projects
-* [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
-* [Simple-Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
 * [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
 * [ReGex Pattern Generator](https://ihateregex.io/)
 * [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
