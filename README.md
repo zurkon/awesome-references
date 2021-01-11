@@ -11,6 +11,13 @@ Resources and Cheatsheets that might come in handy
 * [Python Cheat Sheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
 * [React Airbnb Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
+# Github Profiles Utilities
+* [Badges for Github Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
+* [Awesome Github Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome Github Profile READMEs.
+* [Metrics](https://github.com/lowlighter/metrics) - An image generator with 20+ metrics about your GitHub account.
+* [Shields.io](https://shields.io/) - SVG Badges for your repos.
+* [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Generetate a Amazing Github Profile in some clicks.
+
 # Design Utilities that will come in handy
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 * [Unminus](https://www.unminus.com/) - Royalty Free Music for your Projects
@@ -35,11 +42,6 @@ Resources and Cheatsheets that might come in handy
 # Useful General Projects
 * [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 * [Simple-Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
-* [Badges for Github Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
-* [Awesome Github Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome Github Profile READMEs.
-* [Metrics](https://github.com/lowlighter/metrics) - An image generator with 20+ metrics about your GitHub account.
-* [Shields.io](https://shields.io/) - SVG Badges for your repos.
-* [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Generetate a Amazing Github Profile in some clicks.
 * [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
 * [ReGex Pattern Generator](https://ihateregex.io/)
 * [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
