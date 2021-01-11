@@ -38,7 +38,7 @@ Resources and Cheatsheets that might come in handy
 * [Awesome Github Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome Github Profile READMEs.
 * [Metrics](https://github.com/lowlighter/metrics) - An image generator with 20+ metrics about your GitHub account.
 * [Shields.io](https://shields.io/) - SVG Badges for your repos.
-* [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+* [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Generetate a Amazing Github Profile in some clicks.
 * [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
 * [ReGex Pattern Generator](https://ihateregex.io/)
 * [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
