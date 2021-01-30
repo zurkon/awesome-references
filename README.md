@@ -10,6 +10,7 @@ Resources and Cheatsheets that might come in handy
 * [jQuery to Javascript](https://github.com/Zurkon/jquery-to-javascript-cheatsheet)
 * [Python Cheat Sheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
 * [React Airbnb Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+* [Learn CSS Grid](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
 
 # Github Profiles Utilities
 * [Badges for Github Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
