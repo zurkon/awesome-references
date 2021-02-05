@@ -50,8 +50,15 @@ Resources and Cheatsheets that might come in handy
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
 * [Landing Page Examples](https://saaslandingpage.com/) - Inspirations for Landing Page.
 
+# Useful Python Libraries
+* [rich](https://github.com/willmcgugan/rich) - Python library for rich text and beautiful formatting in the terminal. 
+* [Dear PyGui](https://github.com/hoffstadt/DearPyGui) - A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+* [norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time 2D object tracking to any detector. 
+* [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
+
 # Useful Javascript Projects
 * [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library
+* [Toast UI Chart](https://github.com/nhn/tui.chart) - Beautiful chart for data visualization.
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
 * [Tilt](https://github.com/gijsroge/tilt.js) - A lightweight parallax hover tilt effect.
 * [Howler](https://github.com/goldfire/howler.js/) - Audio library for the modern web.
