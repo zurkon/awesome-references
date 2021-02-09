@@ -87,4 +87,5 @@ Resources and Cheatsheets that might come in handy
 * [Checkboxland](https://www.bryanbraun.com/checkboxland/) - Render anything as HTML checkboxes.
 
 # Remember Later
-* [7 unique apis to check out](https://dev.to/renaissanceengineer/7-unique-apis-for-your-next-project-4hf9)
+* [7 Unique APIs to check out](https://dev.to/renaissanceengineer/7-unique-apis-for-your-next-project-4hf9)
+* [10 Amazing JavaScript Animation Libraries To Use in 2021](https://medium.com/better-programming/10-amazing-javascript-animation-libraries-to-use-in-2021-4ed8862d64ed)
