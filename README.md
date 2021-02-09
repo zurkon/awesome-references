@@ -85,3 +85,6 @@ Resources and Cheatsheets that might come in handy
 * [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 * [RoughViz](https://github.com/jwilber/roughViz) - Library for creating sketchy/hand-drawn styled charts.
 * [Checkboxland](https://www.bryanbraun.com/checkboxland/) - Render anything as HTML checkboxes.
+
+# Remember Later
+* [7 unique apis to check out](https://dev.to/renaissanceengineer/7-unique-apis-for-your-next-project-4hf9)
