@@ -12,6 +12,7 @@ Resources and Cheatsheets that might come in handy
 * [React Airbnb Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * [Learn CSS Grid](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
 * [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+* [ZeroToMastery Resources](https://zerotomastery.io/resources/)
 
 # Github Profiles Utilities
 * [Awesome Github Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome Github Profile READMEs.
