@@ -31,6 +31,7 @@ Resources and Cheatsheets that might come in handy
 * [Vector Paint](https://vectorpaint.yaks.co.nz/) - SVG Editor
 * [undraw Illustrations](https://undraw.co/)
 * [Shape Divider Background Generator](https://www.shapedivider.app/)
+* [SVG Waves](https://www.svgwaves.io/)
 * [Triangle Background Generator](https://trianglify.io/)
 * [Loading Animations](https://loading.io/)
 * [CSS clip-path Maker](https://bennettfeely.com/clippy/)
