@@ -33,6 +33,7 @@ Resources and Cheatsheets that might come in handy
 * [Shape Divider Background Generator](https://www.shapedivider.app/)
 * [SVG Waves](https://www.svgwaves.io/)
 * [Glassmorphism CSS Generator](https://glassmorphism.com/)
+* [Charts.css](https://github.com/ChartsCSS/charts.css)
 * [Triangle Background Generator](https://trianglify.io/)
 * [Loading Animations](https://loading.io/)
 * [CSS clip-path Maker](https://bennettfeely.com/clippy/)
