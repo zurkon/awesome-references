@@ -27,6 +27,7 @@ Resources and Cheatsheets that might come in handy
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 * [Unminus](https://www.unminus.com/) - Royalty Free Music for your Projects
 * [Unscreen](https://www.unscreen.com/) - Remove Video Background
+* [remove.bg](https://www.remove.bg/) - Remove Image Background
 * [Grabients](https://www.grabient.com/) - Color Gradient
 * [Vector Paint](https://vectorpaint.yaks.co.nz/) - SVG Editor
 * [undraw Illustrations](https://undraw.co/)
