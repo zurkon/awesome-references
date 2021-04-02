@@ -96,3 +96,4 @@ Resources and Cheatsheets that might come in handy
 * [7 Unique APIs to check out](https://dev.to/renaissanceengineer/7-unique-apis-for-your-next-project-4hf9)
 * [10 Amazing JavaScript Animation Libraries To Use in 2021](https://medium.com/better-programming/10-amazing-javascript-animation-libraries-to-use-in-2021-4ed8862d64ed)
 * [Image Classification with Teachable Machine, ml5.js and p5.js](https://medium.com/@nishancw/image-classification-with-teachable-machine-ml5-js-and-p5-js-233fbdf48fe7)
+* [Power Toys The Ultimate Utility Tool On Windows 10](https://devdojo.com/kmhmubin/power-toys-the-ultimate-utility-tool-on-windows-10)
