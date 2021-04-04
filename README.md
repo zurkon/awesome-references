@@ -13,6 +13,8 @@ Resources and Cheatsheets that might come in handy
 * [Learn CSS Grid](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
 * [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [ZeroToMastery Resources](https://zerotomastery.io/resources/)
+* [The Ultimate Guide to Artificial Neural Networks (ANN)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
+* [The Ultimate Guide to Convolutional Neural Networks (CNN)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
 
 # Github Profiles Utilities
 * [Awesome Github Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome Github Profile READMEs.
