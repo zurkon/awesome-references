@@ -61,6 +61,7 @@ Resources and Cheatsheets that might come in handy
 
 # Useful Python Libraries
 * [rich](https://github.com/willmcgugan/rich) - Python library for rich text and beautiful formatting in the terminal. 
+* [icecream](https://github.com/gruns/icecream) - Never use print() to debug again.
 * [Dear PyGui](https://github.com/hoffstadt/DearPyGui) - A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 * [norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time 2D object tracking to any detector. 
 * [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
@@ -98,6 +99,8 @@ Resources and Cheatsheets that might come in handy
 * [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
 
 # Remember Later
+* [Python Testing Style Guide](https://blog.thea.codes/my-python-testing-style-guide/)
+* [Building a full-text search engine in 150 lines of Python code](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [Recreating Real-World Terrain With React, Three.js & WebGL Shaders](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1)
 * [The Best Font Loading Strategies](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/)
 * [Hiding Content Responsibly](https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/)
