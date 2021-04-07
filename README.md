@@ -92,7 +92,7 @@ Resources and Cheatsheets that might come in handy
 * [Ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [Clear](https://github.com/bahamas10/node-clear) - Clear the terminal screen if possible.
 * [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
-* [React-Anime](https://alain.xyz/libraries/react-anime)
+* [React-Anime](https://alain.xyz/libraries/react-anime) - A super easy animation library for React
 
 # Weird but Fun Projects
 * [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
