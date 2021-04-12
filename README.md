@@ -61,6 +61,7 @@ Resources and Cheatsheets that might come in handy
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
 * [Landing Page Examples](https://saaslandingpage.com/) - Inspirations for Landing Page.
 * [Temp-Mail](https://temp-mail.org/) - Temporary email generator.
+* [z-lib](https://z-lib.org/) - Great online content.
 
 # Useful Python Libraries
 * [rich](https://github.com/willmcgugan/rich) - Python library for rich text and beautiful formatting in the terminal. 
