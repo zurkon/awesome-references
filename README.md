@@ -103,6 +103,7 @@ Resources and Cheatsheets that might come in handy
 * [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
 
 # Remember Later
+* [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
 * [Python Testing Style Guide](https://blog.thea.codes/my-python-testing-style-guide/)
 * [Building a full-text search engine in 150 lines of Python code](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [Recreating Real-World Terrain With React, Three.js & WebGL Shaders](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1)
