@@ -28,6 +28,7 @@ Resources and Cheatsheets that might come in handy
 * [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 
 # Design Utilities that will come in handy
+* [Frontend Toolkit](https://www.fetoolkit.io/) - Utility for your recurring Frontend tasks
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 * [Unminus](https://www.unminus.com/) - Royalty Free Music for your Projects
 * [Unscreen](https://www.unscreen.com/) - Remove Video Background
@@ -54,6 +55,8 @@ Resources and Cheatsheets that might come in handy
 * [Color Palette Generator](https://www.palettelist.com/)
 
 # Useful General Projects
+* [Headless UI](https://headlessui.dev/) - Unstyled, fully accessible UI components
+* [Devbook](https://usedevbook.com/) - Search Engine for Developers
 * [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
 * [ReGex Pattern Generator](https://ihateregex.io/) - List of ReGex Patterns fro every day
 * [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
