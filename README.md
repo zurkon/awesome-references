@@ -73,7 +73,7 @@ Resources and Cheatsheets that might come in handy
 * [norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time 2D object tracking to any detector. 
 * [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 
-# Useful Javascript Projects
+# Useful Javascript Libraries
 * [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library
 * [Toast UI Chart](https://github.com/nhn/tui.chart) - Beautiful chart for data visualization.
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
@@ -86,7 +86,10 @@ Resources and Cheatsheets that might come in handy
 * [City-Roads](https://github.com/anvaka/city-roads/) - Render every single road in any city at once.
 * [Playwright](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API.
 
-# Useful Node.js Projects
+# Useful React Libraries
+- [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library to build faster, beautiful, and more accessible React applications.
+
+# Useful Node.js Libraries
 * [Filehound](https://github.com/nspragg/filehound/blob/master/README.md) - Flexible and fluent interface for searching the file system.
 * [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 * [Figlet](https://github.com/patorjk/figlet.js) - Creates ASCII art from text.
