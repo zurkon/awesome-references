@@ -89,6 +89,7 @@ Resources and Cheatsheets that might come in handy
 # Useful React Libraries
 - [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library to build faster, beautiful, and more accessible React applications.
 - [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
+- [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
 
 # Useful Node.js Libraries
 * [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
