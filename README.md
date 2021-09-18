@@ -88,9 +88,9 @@ Resources and Cheatsheets that might come in handy
 
 # Useful React Libraries
 - [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library to build faster, beautiful, and more accessible React applications.
+- [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
 
 # Useful Node.js Libraries
-* [Filehound](https://github.com/nspragg/filehound/blob/master/README.md) - Flexible and fluent interface for searching the file system.
 * [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 * [Figlet](https://github.com/patorjk/figlet.js) - Creates ASCII art from text.
 * [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -99,8 +99,6 @@ Resources and Cheatsheets that might come in handy
 * [Yargs](https://github.com/yargs/yargs) - Interactive command line tools with elegant user interface.
 * [Ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [Clear](https://github.com/bahamas10/node-clear) - Clear the terminal screen if possible.
-* [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication
-* [React-Anime](https://alain.xyz/libraries/react-anime) - A super easy animation library for React
 
 # Weird but Fun Projects
 * [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
