@@ -25,25 +25,25 @@ Resources and Cheatsheets that might come in handy
 * [Shields.io](https://shields.io/) - SVG Badges for your repos.
 * [Badges for Github Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
 * [Simple-Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
-* [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+* [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools.
 
 # Design Utilities that will come in handy
-* [Frontend Toolkit](https://www.fetoolkit.io/) - Utility for your recurring Frontend tasks
-* [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
-* [Unminus](https://www.unminus.com/) - Royalty Free Music for your Projects
-* [Unscreen](https://www.unscreen.com/) - Remove Video Background
-* [remove.bg](https://www.remove.bg/) - Remove Image Background
-* [Grabients](https://www.grabient.com/) - Color Gradient
-* [Vector Paint](https://vectorpaint.yaks.co.nz/) - SVG Editor
-* [undraw Illustrations](https://undraw.co/)
-* [Personality Pack](https://www.pixeltrue.com/illustrations/personality-pack)
-* [Shape Divider Background Generator](https://www.shapedivider.app/)
+* [Frontend Toolkit](https://www.fetoolkit.io/) - Utility for your recurring Frontend tasks.
+* [ColorShark](https://colorshark.io/) - WCAG 2.1 AA and AAA Color Contrast Tool.
+* [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
+* [Unminus](https://www.unminus.com/) - Royalty Free Music for your Projects.
+* [Unscreen](https://www.unscreen.com/) - Remove Video Background.
+* [remove.bg](https://www.remove.bg/) - Remove Image Background.
+* [Grabients](https://www.grabient.com/) - Color Gradient.
+* [Vector Paint](https://vectorpaint.yaks.co.nz/) - SVG Editor.
+* [undraw Illustrations](https://undraw.co/) - Open source illustrations for any idea.
+* [Shape Divider Background Generator](https://www.shapedivider.app/) - Tool to create and export a beautiful SVG shape divider for your project.
+* [Triangle Background Generator](https://trianglify.io/) - Low Poly Pattern Generator for Backgrounds and Wallpapers.
+* [CSS clip-path Maker](https://bennettfeely.com/clippy/) - Clip-path CSS made easy.
 * [SVG Waves](https://www.svgwaves.io/)
 * [Glassmorphism CSS Generator](https://glassmorphism.com/)
 * [Charts.css](https://github.com/ChartsCSS/charts.css)
-* [Triangle Background Generator](https://trianglify.io/)
-* [Loading Animations](https://loading.io/)
-* [CSS clip-path Maker](https://bennettfeely.com/clippy/)
+* [Loading Animations](https://loading.io/spinner/)
 * [Image Placeholder](https://discover.twicpics.com/en/placeholder)
 * [Blush Design Illustrations](https://blush.design/)
 * [Hero Patterns](https://www.heropatterns.com/)
