@@ -40,19 +40,13 @@ Resources and Cheatsheets that might come in handy
 * [Shape Divider Background Generator](https://www.shapedivider.app/) - Tool to create and export a beautiful SVG shape divider for your project.
 * [Triangle Background Generator](https://trianglify.io/) - Low Poly Pattern Generator for Backgrounds and Wallpapers.
 * [CSS clip-path Maker](https://bennettfeely.com/clippy/) - Clip-path CSS made easy.
-* [SVG Waves](https://www.svgwaves.io/)
+* [Hero Patterns](https://www.heropatterns.com/) - Free repeatable SVG background patterns for your web project.
+* [AI Image Enlarger](https://imglarger.com/) - Enlarge Image Without Losing Quality
 * [Glassmorphism CSS Generator](https://glassmorphism.com/)
 * [Charts.css](https://github.com/ChartsCSS/charts.css)
 * [Loading Animations](https://loading.io/spinner/)
-* [Image Placeholder](https://discover.twicpics.com/en/placeholder)
-* [Blush Design Illustrations](https://blush.design/)
-* [Hero Patterns](https://www.heropatterns.com/)
-* [Free Illustrations Finder](https://freeillustrations.xyz/)
 * [3D Book Generator](https://3d-book-css.netlify.app/)
-* [Enlarge Image Without Losing Quality](https://imglarger.com/)
 * [Old Books Illustrations](https://www.oldbookillustrations.com/)
-* [Color Gradient Generator](https://mybrandnewlogo.com/color-gradient-generator)
-* [Color Palette Generator](https://www.palettelist.com/)
 
 # Useful General Projects
 * [Headless UI](https://headlessui.dev/) - Unstyled, fully accessible UI components
@@ -105,7 +99,7 @@ Resources and Cheatsheets that might come in handy
 * [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 * [RoughViz](https://github.com/jwilber/roughViz) - Library for creating sketchy/hand-drawn styled charts.
 * [Checkboxland](https://www.bryanbraun.com/checkboxland/) - Render anything as HTML checkboxes.
-* [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
+* [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization) - A visualization of satellites, debris, and other objects in low earth orbit.
 
 # Remember Later
 * [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
