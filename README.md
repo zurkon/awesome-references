@@ -16,8 +16,6 @@ Resources and Cheatsheets that might come in handy
 * [GDScript style guide](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_styleguide.html)
 * [The Ultimate Guide to Artificial Neural Networks (ANN)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
 * [The Ultimate Guide to Convolutional Neural Networks (CNN)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
-* [Learn Convolutional Neural Network (CNN) in your browser](https://poloclub.github.io/cnn-explainer/)
-* [2D Visualization of a Draw Number CNN](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html)
 
 # Github Profiles Utilities
 * [Awesome Github Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome Github Profile READMEs.
@@ -114,3 +112,5 @@ Resources and Cheatsheets that might come in handy
 * [10 Amazing JavaScript Animation Libraries To Use in 2021](https://medium.com/better-programming/10-amazing-javascript-animation-libraries-to-use-in-2021-4ed8862d64ed)
 * [Image Classification with Teachable Machine, ml5.js and p5.js](https://medium.com/@nishancw/image-classification-with-teachable-machine-ml5-js-and-p5-js-233fbdf48fe7)
 * [Power Toys The Ultimate Utility Tool On Windows 10](https://devdojo.com/kmhmubin/power-toys-the-ultimate-utility-tool-on-windows-10)
+* [Learn Convolutional Neural Network (CNN) in your browser](https://poloclub.github.io/cnn-explainer/)
+* [2D Visualization of a Draw Number CNN](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html)
