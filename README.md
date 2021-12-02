@@ -13,6 +13,7 @@ Resources and Cheatsheets that might come in handy
 * [Learn CSS Grid](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
 * [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [ZeroToMastery Resources](https://zerotomastery.io/resources/)
+* [GDScript style guide](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_styleguide.html)
 * [The Ultimate Guide to Artificial Neural Networks (ANN)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
 * [The Ultimate Guide to Convolutional Neural Networks (CNN)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
 * [Learn Convolutional Neural Network (CNN) in your browser](https://poloclub.github.io/cnn-explainer/)
