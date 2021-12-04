@@ -74,6 +74,7 @@ Resources and Cheatsheets that might come in handy
 * [Popper.js](https://popper.js.org/) - Tooltip & Popover positioning engine.
 * [City-Roads](https://github.com/anvaka/city-roads/) - Render every single road in any city at once.
 * [Playwright](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API.
+* [ViaCEP](https://viacep.com.br/) - Library to get Brasil's street data from CEP code.
 
 # Useful React Libraries
 - [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library to build faster, beautiful, and more accessible React applications.
