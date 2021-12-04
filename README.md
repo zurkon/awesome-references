@@ -46,14 +46,12 @@ Resources and Cheatsheets that might come in handy
 * [Old Books Illustrations](https://www.oldbookillustrations.com/)
 
 # Useful General Projects
-* [Headless UI](https://headlessui.dev/) - Unstyled, fully accessible UI components
 * [Devbook](https://usedevbook.com/) - Search Engine for Developers
 * [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
 * [ReGex Pattern Generator](https://ihateregex.io/) - List of ReGex Patterns fro every day
 * [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
 * [Resume Builder](https://flowcv.io/) - Build your job-winning resume.
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
-* [Landing Page Examples](https://saaslandingpage.com/) - Inspirations for Landing Page.
 * [Temp-Mail](https://temp-mail.org/) - Temporary email generator.
 * [z-lib](https://z-lib.org/) - Great online content.
 
