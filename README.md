@@ -62,6 +62,12 @@ Resources and Cheatsheets that might come in handy
 * [norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time 2D object tracking to any detector. 
 * [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 
+# Useful React Libraries
+- [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library to build faster, beautiful, and more accessible React applications.
+- [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
+- [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
+- [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications
+
 # Useful Javascript Libraries
 * [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library
 * [Toast UI Chart](https://github.com/nhn/tui.chart) - Beautiful chart for data visualization.
@@ -75,11 +81,6 @@ Resources and Cheatsheets that might come in handy
 * [City-Roads](https://github.com/anvaka/city-roads/) - Render every single road in any city at once.
 * [Playwright](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API.
 * [ViaCEP](https://viacep.com.br/) - Library to get Brasil's street data from CEP code.
-
-# Useful React Libraries
-- [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library to build faster, beautiful, and more accessible React applications.
-- [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
-- [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
 
 # Useful Node.js Libraries
 * [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
