@@ -39,6 +39,7 @@ Resources and Cheatsheets that might come in handy
 * [CSS clip-path Maker](https://bennettfeely.com/clippy/) - Clip-path CSS made easy.
 * [Hero Patterns](https://www.heropatterns.com/) - Free repeatable SVG background patterns for your web project.
 * [AI Image Enlarger](https://imglarger.com/) - Enlarge Image Without Losing Quality
+* [Leaflet Maps](https://leaflet-extras.github.io/leaflet-providers/preview/) - Maps available for Leaflet's Tile Layer
 * [Glassmorphism CSS Generator](https://glassmorphism.com/)
 * [Charts.css](https://github.com/ChartsCSS/charts.css)
 * [Loading Animations](https://loading.io/spinner/)
