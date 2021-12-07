@@ -70,7 +70,9 @@ Resources and Cheatsheets that might come in handy
 - [NextJS](https://github.com/vercel/next.js) - The React Framework!
 
 # Useful Javascript Libraries
-* [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library
+* [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library.
+* [Remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
+* [CodeMirror](https://github.com/codemirror/codemirror.next/) - A Code Editor in the browser.
 * [Toast UI Chart](https://github.com/nhn/tui.chart) - Beautiful chart for data visualization.
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
 * [Tilt](https://github.com/gijsroge/tilt.js) - A lightweight parallax hover tilt effect.
