@@ -5,7 +5,6 @@ Resources and Cheatsheets that might come in handy
 * [git commands](https://education.github.com/git-cheat-sheet-education.pdf)
 * [git emoji](https://github.com/ikatyang/emoji-cheat-sheet)
 * [git markdown](https://guides.github.com/features/mastering-markdown/)
-* [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 * [Managing HTML DOM with Javascript](https://htmldom.dev/)
 * [jQuery to Javascript](https://github.com/Zurkon/jquery-to-javascript-cheatsheet)
 * [Python Cheat Sheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
@@ -44,7 +43,6 @@ Resources and Cheatsheets that might come in handy
 * [Charts.css](https://github.com/ChartsCSS/charts.css)
 * [Loading Animations](https://loading.io/spinner/)
 * [3D Book Generator](https://3d-book-css.netlify.app/)
-* [Old Books Illustrations](https://www.oldbookillustrations.com/)
 
 # Useful General Projects
 * [Devbook](https://usedevbook.com/) - Search Engine for Developers
@@ -103,6 +101,7 @@ Resources and Cheatsheets that might come in handy
 
 # Remember Later
 * [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
+* [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 * [Python Testing Style Guide](https://blog.thea.codes/my-python-testing-style-guide/)
 * [Building a full-text search engine in 150 lines of Python code](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [Recreating Real-World Terrain With React, Three.js & WebGL Shaders](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1)
