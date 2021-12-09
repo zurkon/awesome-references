@@ -110,8 +110,6 @@ Resources and Cheatsheets that might come in handy
 * [The Best Font Loading Strategies](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/)
 * [Hiding Content Responsibly](https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/)
 * [Button Design — UI component series](https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7)
-* [7 Unique APIs to check out](https://dev.to/renaissanceengineer/7-unique-apis-for-your-next-project-4hf9)
-* [10 Amazing JavaScript Animation Libraries To Use in 2021](https://medium.com/better-programming/10-amazing-javascript-animation-libraries-to-use-in-2021-4ed8862d64ed)
 * [Image Classification with Teachable Machine, ml5.js and p5.js](https://medium.com/@nishancw/image-classification-with-teachable-machine-ml5-js-and-p5-js-233fbdf48fe7)
 * [Power Toys The Ultimate Utility Tool On Windows 10](https://devdojo.com/kmhmubin/power-toys-the-ultimate-utility-tool-on-windows-10)
 * [Learn Convolutional Neural Network (CNN) in your browser](https://poloclub.github.io/cnn-explainer/)
