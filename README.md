@@ -95,6 +95,9 @@ Resources and Cheatsheets that might come in handy
 * [Yargs](https://github.com/yargs/yargs) - Interactive command line tools with elegant user interface.
 * [Ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [Clear](https://github.com/bahamas10/node-clear) - Clear the terminal screen if possible.
+* [Blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
+* [Terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js.
+* [Terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 
 # Weird but Fun Projects
 * [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
