@@ -84,6 +84,7 @@ Resources and Cheatsheets that might come in handy
 
 # Useful Node.js Libraries
 * [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
+* [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API.
 * [Figlet](https://github.com/patorjk/figlet.js) - Creates ASCII art from text.
 * [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 * [Signale](https://github.com/klaussinani/signale) - Highly configurable logging utility.
