@@ -56,7 +56,6 @@ Resources and Cheatsheets that might come in handy
 
 # Useful Python Libraries
 * [rich](https://github.com/willmcgugan/rich) - Python library for rich text and beautiful formatting in the terminal.
-* [playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. 
 * [icecream](https://github.com/gruns/icecream) - Never use print() to debug again.
 * [norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time 2D object tracking to any detector. 
 * [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
