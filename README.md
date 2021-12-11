@@ -75,16 +75,11 @@ Resources and Cheatsheets that might come in handy
 * [Remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
 * [Typed.js](https://github.com/mattboldt/typed.js/) - A Javascript Typing Animation Library.
 * [CodeMirror](https://github.com/codemirror/codemirror.next/) - A Code Editor in the browser.
-* [Toast UI Chart](https://github.com/nhn/tui.chart) - Beautiful chart for data visualization.
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
 * [Tilt](https://github.com/gijsroge/tilt.js) - A lightweight parallax hover tilt effect.
 * [Howler](https://github.com/goldfire/howler.js/) - Audio library for the modern web.
 * [Chroma.js](https://github.com/gka/chroma.js/) - JavaScript library for all kinds of color manipulations
-* [Bumblebee](https://github.com/jaxcore/bumblebee) - JavaScript Voice Application Framework.
-* [Uppload](https://uppload.js.org/) - a JavaScript image uploader.
-* [Popper.js](https://popper.js.org/) - Tooltip & Popover positioning engine.
 * [City-Roads](https://github.com/anvaka/city-roads/) - Render every single road in any city at once.
-* [Playwright](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API.
 * [ViaCEP](https://viacep.com.br/) - Library to get Brasil's street data from CEP code.
 
 # Useful Node.js Libraries
