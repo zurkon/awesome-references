@@ -59,6 +59,7 @@ Resources and Cheatsheets that might come in handy
 * [icecream](https://github.com/gruns/icecream) - Never use print() to debug again.
 * [norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time 2D object tracking to any detector. 
 * [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
+* [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 
 
 # Useful React Libraries
 - [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library.
