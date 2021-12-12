@@ -9,6 +9,7 @@ Resources and Cheatsheets that might come in handy
 * [jQuery to Javascript](https://github.com/Zurkon/jquery-to-javascript-cheatsheet)
 * [Python Cheat Sheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
 * [React Airbnb Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+* [Javascript Airbnb Style Guide](https://github.com/airbnb/javascript)
 * [ZeroToMastery Resources](https://zerotomastery.io/resources/)
 * [GDScript style guide](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_styleguide.html)
 * [The Ultimate Guide to Artificial Neural Networks (ANN)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
@@ -104,6 +105,8 @@ Resources and Cheatsheets that might come in handy
 
 # Remember Later
 * [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
+* [Learn ReGex](https://regexlearn.com/learn)
+* [JS Developer Tools secrets that shouldn’t be secrets](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
 * [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 * [Python Testing Style Guide](https://blog.thea.codes/my-python-testing-style-guide/)
 * [Building a full-text search engine in 150 lines of Python code](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
