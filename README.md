@@ -47,6 +47,7 @@ Resources and Cheatsheets that might come in handy
 
 # Useful General Projects
 * [Devbook](https://usedevbook.com/) - Search Engine for Developers
+* [Bundle Scanner](https://bundlescanner.com/) - Identify NPM libraries included in Javascript files
 * [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
 * [ReGex Pattern Generator](https://ihateregex.io/) - List of ReGex Patterns fro every day
 * [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
@@ -74,6 +75,7 @@ Resources and Cheatsheets that might come in handy
 # Useful Javascript Libraries
 * [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library.
 * [Remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
+* [LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can!
 * [Typed.js](https://github.com/mattboldt/typed.js/) - A Javascript Typing Animation Library.
 * [CodeMirror](https://github.com/codemirror/codemirror.next/) - A Code Editor in the browser.
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
