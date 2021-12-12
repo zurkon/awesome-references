@@ -71,6 +71,7 @@ Resources and Cheatsheets that might come in handy
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
 - [Storybook](https://github.com/storybookjs/storybook/) - The UI component explorer. Develop, document and test React Components.
 - [NextJS](https://github.com/vercel/next.js) - The React Framework.
+- [Hydrogen](https://github.com/Shopify/hydrogen) - A React Framework For Dynamic, Contextual And Personalized E-Commerce.
 
 # Useful Javascript Libraries
 * [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library.
@@ -106,8 +107,10 @@ Resources and Cheatsheets that might come in handy
 * [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization) - A visualization of satellites, debris, and other objects in low earth orbit.
 
 # Remember Later
-* [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
 * [Learn ReGex](https://regexlearn.com/learn)
+* [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
+* [Rust Language Book](https://doc.rust-lang.org/book/title-page.html)
+* [How to build stunning 3D scenes with React Three Fiber](https://varun.ca/modular-webgl/)
 * [JS Developer Tools secrets that shouldn’t be secrets](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
 * [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 * [Python Testing Style Guide](https://blog.thea.codes/my-python-testing-style-guide/)
