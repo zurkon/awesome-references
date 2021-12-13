@@ -96,7 +96,6 @@ Resources and Cheatsheets that might come in handy
 * [Yargs](https://github.com/yargs/yargs) - Interactive command line tools with elegant user interface.
 * [Ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [Clear](https://github.com/bahamas10/node-clear) - Clear the terminal screen if possible.
-* [Blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 * [Terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js.
 * [Terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 
@@ -115,8 +114,6 @@ Resources and Cheatsheets that might come in handy
 * [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 * [Python Testing Style Guide](https://blog.thea.codes/my-python-testing-style-guide/)
 * [Building a full-text search engine in 150 lines of Python code](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
-* [Recreating Real-World Terrain With React, Three.js & WebGL Shaders](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1)
-* [The Best Font Loading Strategies](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/)
 * [Hiding Content Responsibly](https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/)
 * [Button Design — UI component series](https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7)
 * [Image Classification with Teachable Machine, ml5.js and p5.js](https://medium.com/@nishancw/image-classification-with-teachable-machine-ml5-js-and-p5-js-233fbdf48fe7)
