@@ -10,6 +10,7 @@ Resources and Cheatsheets that might come in handy
 * [Python Cheat Sheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
 * [React Airbnb Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * [Javascript Airbnb Style Guide](https://github.com/airbnb/javascript)
+* [Discover Three.js Book](https://discoverthreejs.com/)
 * [ZeroToMastery Resources](https://zerotomastery.io/resources/)
 * [GDScript style guide](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_styleguide.html)
 * [The Ultimate Guide to Artificial Neural Networks (ANN)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
