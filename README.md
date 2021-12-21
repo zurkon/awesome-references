@@ -42,9 +42,6 @@ Resources and Cheatsheets that might come in handy
 * [AI Image Enlarger](https://imglarger.com/) - Enlarge Image Without Losing Quality
 * [Leaflet Maps](https://leaflet-extras.github.io/leaflet-providers/preview/) - Maps available for Leaflet's Tile Layer
 * [Glassmorphism CSS Generator](https://glassmorphism.com/)
-* [Charts.css](https://github.com/ChartsCSS/charts.css)
-* [Loading Animations](https://loading.io/spinner/)
-* [3D Book Generator](https://3d-book-css.netlify.app/)
 
 # Useful General Projects
 * [Devbook](https://usedevbook.com/) - Search Engine for Developers
