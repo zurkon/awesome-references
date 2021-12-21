@@ -44,11 +44,10 @@ Resources and Cheatsheets that might come in handy
 * [Glassmorphism CSS Generator](https://glassmorphism.com/)
 
 # Useful General Projects
-* [Devbook](https://usedevbook.com/) - Search Engine for Developers
-* [Bundle Scanner](https://bundlescanner.com/) - Identify NPM libraries included in Javascript files
-* [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights
-* [ReGex Pattern Generator](https://ihateregex.io/) - List of ReGex Patterns fro every day
-* [Copy Paste List](https://copypastelist.com/) - A list of lists you can copy paste
+* [Devbook](https://usedevbook.com/) - Search Engine for Developers.
+* [Bundle Scanner](https://bundlescanner.com/) - Identify NPM libraries included in Javascript files.
+* [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights.
+* [ReGex Pattern Generator](https://ihateregex.io/) - List of ReGex Patterns for every day.
 * [Resume Builder](https://flowcv.io/) - Build your job-winning resume.
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
 * [Temp-Mail](https://temp-mail.org/) - Temporary email generator.
