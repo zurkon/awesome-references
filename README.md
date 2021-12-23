@@ -6,7 +6,6 @@ Resources and Cheatsheets that might come in handy
 * [git emoji](https://github.com/ikatyang/emoji-cheat-sheet)
 * [git markdown](https://guides.github.com/features/mastering-markdown/)
 * [Managing HTML DOM with Javascript](https://htmldom.dev/)
-* [jQuery to Javascript](https://github.com/Zurkon/jquery-to-javascript-cheatsheet)
 * [Python Cheat Sheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
 * [React Airbnb Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * [Javascript Airbnb Style Guide](https://github.com/airbnb/javascript)
