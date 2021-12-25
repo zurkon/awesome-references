@@ -103,6 +103,7 @@ Resources and Cheatsheets that might come in handy
 
 # Remember Later
 * [Learn ReGex](https://regexlearn.com/learn)
+* [Glitch Scroll with Three,js using React](https://otsumitsu.com/glitch-scroll-example-with-three-js/)
 * [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
 * [Rust Language Book](https://doc.rust-lang.org/book/title-page.html)
 * [JS Developer Tools secrets that shouldn’t be secrets](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
