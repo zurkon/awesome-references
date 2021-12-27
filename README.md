@@ -83,6 +83,7 @@ Resources and Cheatsheets that might come in handy
 * [ViaCEP](https://viacep.com.br/) - Library to get Brasil's street data from CEP code.
 
 # Useful Node.js Libraries
+* [NVM for Windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows.
 * [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 * [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API.
 * [Figlet](https://github.com/patorjk/figlet.js) - Creates ASCII art from text.
