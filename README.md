@@ -63,6 +63,7 @@ Resources and Cheatsheets that might come in handy
 # Useful React Libraries
 - [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library.
 - [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React.
 - [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of components implementing Google's Material Design specification with CSS Modules.
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
 - [Storybook](https://github.com/storybookjs/storybook/) - The UI component explorer. Develop, document and test React Components.
