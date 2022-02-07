@@ -43,6 +43,7 @@ Resources and Cheatsheets that might come in handy
 * [Glassmorphism CSS Generator](https://glassmorphism.com/)
 
 # Useful General Projects
+* [ezgif](https://ezgif.com/) - Animated gif made easy.
 * [Devbook](https://usedevbook.com/) - Search Engine for Developers.
 * [Bundle Scanner](https://bundlescanner.com/) - Identify NPM libraries included in Javascript files.
 * [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights.
