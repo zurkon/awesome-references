@@ -44,6 +44,7 @@ Resources and Cheatsheets that might come in handy
 
 # Useful General Projects
 * [ezgif](https://ezgif.com/) - Animated gif made easy.
+* [The Algorithms](https://the-algorithms.com/) - Resource for learning Data Structures & Algorithms in any Programming Language.
 * [Devbook](https://usedevbook.com/) - Search Engine for Developers.
 * [Bundle Scanner](https://bundlescanner.com/) - Identify NPM libraries included in Javascript files.
 * [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
