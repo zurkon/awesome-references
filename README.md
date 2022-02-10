@@ -46,7 +46,7 @@ Resources and Cheatsheets that might come in handy
 * [ezgif](https://ezgif.com/) - Animated gif made easy.
 * [Devbook](https://usedevbook.com/) - Search Engine for Developers.
 * [Bundle Scanner](https://bundlescanner.com/) - Identify NPM libraries included in Javascript files.
-* [Openbase.io](https://openbase.io/) - Compare 1.4M JS packages with reviews and unparalleled insights.
+* [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
 * [ReGex Pattern Generator](https://ihateregex.io/) - List of ReGex Patterns for every day.
 * [Resume Builder](https://flowcv.io/) - Build your job-winning resume.
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
