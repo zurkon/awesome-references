@@ -40,7 +40,6 @@ Resources and Cheatsheets that might come in handy
 * [Hero Patterns](https://www.heropatterns.com/) - Free repeatable SVG background patterns for your web project.
 * [AI Image Enlarger](https://imglarger.com/) - Enlarge Image Without Losing Quality
 * [Leaflet Maps](https://leaflet-extras.github.io/leaflet-providers/preview/) - Maps available for Leaflet's Tile Layer
-* [Glassmorphism CSS Generator](https://glassmorphism.com/)
 
 # Useful General Projects
 * [ezgif](https://ezgif.com/) - Animated gif made easy.
