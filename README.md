@@ -72,7 +72,6 @@ Resources and Cheatsheets that might come in handy
 # Useful Javascript Libraries
 * [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library.
 * [Remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
-* [LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can!
 * [Typed.js](https://github.com/mattboldt/typed.js/) - A Javascript Typing Animation Library.
 * [CodeMirror](https://github.com/codemirror/codemirror.next/) - A Code Editor in the browser.
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
