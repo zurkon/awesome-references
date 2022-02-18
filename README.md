@@ -101,6 +101,7 @@ Resources and Cheatsheets that might come in handy
 # Remember Later
 * [Learn ReGex](https://regexlearn.com/learn)
 * [MIT Intro to Deep Learning](http://introtodeeplearning.com/2021/index.html)
+* [ZTM TensorFlow Github](https://github.com/mrdbourke/tensorflow-deep-learning)
 * [Made with ML](https://github.com/GokuMohandas/MadeWithML)
 * [Matrix Multiplication](http://matrixmultiplication.xyz/)
 * [Glitch Scroll with Three,js using React](https://otsumitsu.com/glitch-scroll-example-with-three-js/)
