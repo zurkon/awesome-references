@@ -7,7 +7,6 @@ Resources and Cheatsheets that might come in handy
 * [git markdown](https://guides.github.com/features/mastering-markdown/)
 * [Managing HTML DOM with Javascript](https://htmldom.dev/)
 * [Python Cheat Sheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
-* [React Airbnb Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * [Javascript Airbnb Style Guide](https://github.com/airbnb/javascript)
 * [Discover Three.js Book](https://discoverthreejs.com/)
 * [ZeroToMastery Resources](https://zerotomastery.io/resources/)
@@ -36,7 +35,6 @@ Resources and Cheatsheets that might come in handy
 * [undraw Illustrations](https://undraw.co/) - Open source illustrations for any idea.
 * [Shape Divider Background Generator](https://www.shapedivider.app/) - Tool to create and export a beautiful SVG shape divider for your project.
 * [Triangle Background Generator](https://trianglify.io/) - Low Poly Pattern Generator for Backgrounds and Wallpapers.
-* [CSS clip-path Maker](https://bennettfeely.com/clippy/) - Clip-path CSS made easy.
 * [Hero Patterns](https://www.heropatterns.com/) - Free repeatable SVG background patterns for your web project.
 * [AI Image Enlarger](https://imglarger.com/) - Enlarge Image Without Losing Quality
 * [Leaflet Maps](https://leaflet-extras.github.io/leaflet-providers/preview/) - Maps available for Leaflet's Tile Layer
