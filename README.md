@@ -55,14 +55,12 @@ Resources and Cheatsheets that might come in handy
 * [icecream](https://github.com/gruns/icecream) - Never use print() to debug again.
 * [norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time 2D object tracking to any detector. 
 * [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
-* [youtube-search](https://github.com/alexmercerind/youtube-search-python) - Search for YouTube videos, channels & playlists.
 
 # Useful React Libraries
 - [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library.
-- [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React.
-- [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of components implementing Google's Material Design specification with CSS Modules.
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
+- [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
+- [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of components implementing Google's Material Design specification with CSS Modules.
 - [Storybook](https://github.com/storybookjs/storybook/) - The UI component explorer. Develop, document and test React Components.
 - [NextJS](https://github.com/vercel/next.js) - The React Framework.
 - [Hydrogen](https://github.com/Shopify/hydrogen) - A React Framework For Dynamic, Contextual And Personalized E-Commerce.
