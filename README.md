@@ -57,10 +57,11 @@ Resources and Cheatsheets that might come in handy
 * [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 
 # Useful React Libraries
+- [dndkit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of components implementing Google's Material Design specification with CSS Modules.
 - [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library.
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
 - [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
-- [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of components implementing Google's Material Design specification with CSS Modules.
 - [Storybook](https://github.com/storybookjs/storybook/) - The UI component explorer. Develop, document and test React Components.
 - [NextJS](https://github.com/vercel/next.js) - The React Framework.
 - [Hydrogen](https://github.com/Shopify/hydrogen) - A React Framework For Dynamic, Contextual And Personalized E-Commerce.
