@@ -51,7 +51,6 @@ Resources and Cheatsheets that might come in handy
 
 # Useful React Libraries
 - [dndkit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
-- [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of components implementing Google's Material Design specification with CSS Modules.
 - [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library.
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
 - [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
