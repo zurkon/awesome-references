@@ -31,7 +31,6 @@ Resources and Cheatsheets that might come in handy
 * [Unscreen](https://www.unscreen.com/) - Remove Video Background.
 * [remove.bg](https://www.remove.bg/) - Remove Image Background.
 * [Grabients](https://www.grabient.com/) - Color Gradient.
-* [Vector Paint](https://vectorpaint.yaks.co.nz/) - SVG Editor.
 * [undraw Illustrations](https://undraw.co/) - Open source illustrations for any idea.
 * [Shape Divider Background Generator](https://www.shapedivider.app/) - Tool to create and export a beautiful SVG shape divider for your project.
 * [Triangle Background Generator](https://trianglify.io/) - Low Poly Pattern Generator for Backgrounds and Wallpapers.
@@ -49,12 +48,6 @@ Resources and Cheatsheets that might come in handy
 * [Brand Search Engine](https://brandfetch.io/) - Fetch Brand Icons and Color Palette.
 * [Temp-Mail](https://temp-mail.org/) - Temporary email generator.
 * [z-lib](https://z-lib.org/) - Great online content.
-
-# Useful Python Libraries
-* [rich](https://github.com/willmcgugan/rich) - Python library for rich text and beautiful formatting in the terminal.
-* [icecream](https://github.com/gruns/icecream) - Never use print() to debug again.
-* [norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time 2D object tracking to any detector. 
-* [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 
 # Useful React Libraries
 - [dndkit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
