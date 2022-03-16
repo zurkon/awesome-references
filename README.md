@@ -24,6 +24,7 @@ Resources and Cheatsheets that might come in handy
 * [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools.
 
 # Design Utilities that will come in handy
+* [Feather Icons](https://feathericons.com/) - Simply beautiful open source icons
 * [Frontend Toolkit](https://www.fetoolkit.io/) - Utility for your recurring Frontend tasks.
 * [ColorShark](https://colorshark.io/) - WCAG 2.1 AA and AAA Color Contrast Tool.
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
