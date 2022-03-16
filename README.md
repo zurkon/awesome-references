@@ -65,6 +65,7 @@ Resources and Cheatsheets that might come in handy
 * [Typed.js](https://github.com/mattboldt/typed.js/) - A Javascript Typing Animation Library.
 * [CodeMirror](https://github.com/codemirror/codemirror.next/) - A Code Editor in the browser.
 * [Particles](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
+* [Tween.js](https://github.com/tweenjs/tween.js/) - JavaScript/TypeScript animation engine.
 * [Tilt](https://github.com/gijsroge/tilt.js) - A lightweight parallax hover tilt effect.
 * [Howler](https://github.com/goldfire/howler.js/) - Audio library for the modern web.
 * [Chroma.js](https://github.com/gka/chroma.js/) - JavaScript library for all kinds of color manipulations
