@@ -53,6 +53,7 @@ Resources and Cheatsheets that might come in handy
 # Useful React Libraries
 - [dndkit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [use-gesture](https://github.com/pmndrs/use-gesture) - Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
+- [react-spring](https://github.com/pmndrs/react-spring) - A spring physics based React animation library.
 - [Material UI](https://github.com/mui-org/material-ui) - A simple and customizable component library.
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
 - [styled-components](https://github.com/styled-components/styled-components) - Use the best bits of ES6 and CSS to style your apps without stress.
